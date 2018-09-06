@@ -1,5 +1,5 @@
 ## 开发环境
-**Anaconda + theano / Tensorflow / Keras / scikit-learn / test for branch update**
+**Anaconda + theano / Tensorflow / Keras / scikit-learn**
 
 ## Anaconda 安装
 Anaconda 实际上是一个python开发环境的集成包，安装好后就已经等于安装好了python + Spyder + Jupyter Notebook 等等基本工具了，至于Spyder 和 Jupyter Notebook等是何物以及有何用就不细说了。
